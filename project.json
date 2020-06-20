@@ -1,0 +1,31 @@
+{
+  "name": "Techgig_Code_Gladiators_Interview_Process_Management_System",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "LinkedIn.Api": "1.0.7",
+    "UiPath": "[19.5.7079.28746]",
+    "UiPath.Database.Activities": "1.2.6863.32528",
+    "UiPath.Excel.Activities": "[2.5.3]",
+    "UiPath.Mail.Activities": "[1.4.0]",
+    "UiPath.System.Activities": "[19.4.0]",
+    "UiPath.UIAutomation.Activities": "[19.5.0]"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "19.4.2.0",
+  "projectVersion": "1.0.1-alpha.2",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  },
+  "webServices": []
+}
